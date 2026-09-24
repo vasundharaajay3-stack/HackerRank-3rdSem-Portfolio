@@ -1,0 +1,15 @@
+n = int(input())
+
+arr = []
+
+for i in range(n):
+    arr.append(list(map(int, input().split())))
+
+primary = 0
+secondary = 0
+
+for i in range(n):
+    primary += arr[i][i]
+    secondary += arr[i][n - 1 - i]
+
+print(abs(primary - secondary))
