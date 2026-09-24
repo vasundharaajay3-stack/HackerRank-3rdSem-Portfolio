@@ -76,7 +76,7 @@ Screenshots of the accepted HackerRank submissions are included below.
 
 ## HackerRank Badge
 
-The required HackerRank badge screenshot will be added here.
+![HackerRank 3-Star Badge](./screenshots/badge-image.png)
 
 ## Reflection
 
